@@ -1,6 +1,5 @@
 const enterTask = document.querySelector('.entertask_btn');
 const listItemTemplate = document.querySelector('.listItem-template');
-
 const listContainer = document.querySelector('.listItem_container');
 
 
